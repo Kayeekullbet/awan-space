@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Awan Space logo">
-  <rect width="128" height="128" rx="32" fill="#0f1f18"/>
-  <circle cx="88" cy="38" r="16" fill="#1ed760" opacity=".95"/>
-  <path d="M34 77c-10.5 0-19-7.8-19-17.4 0-9.6 8.5-17.4 19-17.4 2.7 0 5.2.5 7.5 1.5C46.8 34.2 56.9 29 68.5 29c17.4 0 31.5 13 31.5 29 0 .8 0 1.6-.1 2.4 7.8 2.1 13.6 8.7 13.6 16.6 0 9.6-8.5 17.4-19 17.4H34Z" fill="#ffffff"/>
-  <path d="M45 72h38" stroke="#1ed760" stroke-width="8" stroke-linecap="round"/>
-  <path d="M45 58h23" stroke="#1ed760" stroke-width="8" stroke-linecap="round"/>
-</svg>
